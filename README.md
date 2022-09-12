@@ -1,7 +1,7 @@
 
 <h4>Me chamo Igor e sou apaixonado por 👨🏽‍💻tecnologia, 🎶música, 🍕comida e 🐶animais!</h4>
 
-<div align="center">
+<div>
   
 Sou formado em Análise e Desenvolvimento de Sistemas e sigo me aprimorando na área. Tenho conhecimento em JAVA e algumas tecnologias que o acompanham: Spring Boot, JPA, Hibernate, etc. Além de bancos de dados SQL e NoSQL como MySQL e Elasticsearch.
 
