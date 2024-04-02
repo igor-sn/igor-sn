@@ -3,9 +3,6 @@
 
 <div>
   
-Sou um desenvolvedor em constante desenvolvimento.
-
-</div>
 Tenho experiência em desenvolvimento de sistemas escaláveis que possam lidar com um grande fluxo de usuários e processamento massivo. 
 
 Conto com conhecimento em:
@@ -17,6 +14,9 @@ Conto com conhecimento em:
 - Versionamento de código com Git e Github;
 
 Utilizo essas tecnologias seguindo conceitos de Clean Code, princípios SOLID e Clean Architeture.
+
+</div>
+
 <div>
 
   <br>
