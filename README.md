@@ -1,6 +1,4 @@
 
-<h4>Me chamo Igor e sou apaixonado por 👨🏽‍💻tecnologia, 🎶música, 🍕comida e 🐶animais!</h4>
-
 <div>
   
 Tenho experiência em desenvolvimento de sistemas escaláveis que possam lidar com um grande fluxo de usuários e processamento massivo. 
